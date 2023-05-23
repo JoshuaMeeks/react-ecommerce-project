@@ -1,0 +1,5 @@
+-impliment stripe payments
+-impliment a client and admin login (authentication)
+-use bootstrap for styling
+
+-create a "smart" ad suggestion banner
